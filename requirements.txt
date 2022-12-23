@@ -1,0 +1,9 @@
+pystyle
+requests_toolbelt
+py-cord
+datetime
+colorama
+timer
+httpx
+requests
+uuid
